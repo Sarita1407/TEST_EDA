@@ -14,7 +14,4 @@
 ![image](https://user-images.githubusercontent.com/94909373/157050736-b76e348d-0d8f-49a6-98bf-3bf28561fe3a.png)
 ![image](https://user-images.githubusercontent.com/94909373/157050757-8d3e73e3-d776-44e2-96bc-ec3d0997cfcc.png)
 ![image](https://user-images.githubusercontent.com/94909373/157050829-70412b9b-392c-4c41-a73d-92b5342b9511.png)
-
-
-
-
+[Notebook for Details](https://github.com/Sarita1407/TEST_EDA/blob/main/Analysis%20on%20Used%20Cars_sahu.sarita123%40gmail.com.ipynb).
